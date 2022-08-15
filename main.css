@@ -1,0 +1,16 @@
+.row{
+    margin-top: 25px;
+}
+
+#icon{
+    background-color: rgb(255, 252, 178);
+    /* border: 20px solid rgb(255, 254, 219); */
+    border-radius: 50px;
+    position: fixed; 
+    top: 50%;
+    left: 50%;
+}
+
+#butt{
+    margin-top: 15px;
+}
